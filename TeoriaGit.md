@@ -6,3 +6,4 @@ El sistema de git se compone de diferentes "etapas " o "stages" que son como pas
 No trabajar en la rama main (hacer una copia).
  Nuevos cambios
  Formulario de logueo en la rama login
+ Hola pepito.
